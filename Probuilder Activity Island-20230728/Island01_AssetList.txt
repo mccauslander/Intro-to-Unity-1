@@ -1,0 +1,8 @@
+x3 types of trees
+x3 types of rock
+x1 fire pit
+x5 gravestones
+x1 cave (large)
+x4 types of coral
+x1 Beach
+x1 body of water
